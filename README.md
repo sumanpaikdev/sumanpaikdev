@@ -3,6 +3,8 @@
 
 **sumanpaikcs/sumanpaikcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div style="width:100%;height:0;padding-bottom:175%;position:relative;"><iframe src="https://giphy.com/embed/tFGBovr5CtfWt7MtqK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nuevofoundation-coding-stem-nuvi-tFGBovr5CtfWt7MtqK">via GIPHY</a></p>
+
 # 🔥 Skills 🔥
 
 ### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
@@ -39,9 +41,8 @@
 </p>
 
 
-<p  align="center">
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -50,5 +51,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 

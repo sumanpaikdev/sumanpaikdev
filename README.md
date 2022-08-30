@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi I'm Suman Paik 👋
 
 
-<!-- **sumanpaikcs/sumanpaikcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<div style="width:100%;height:0;padding-bottom:175%;position:relative;"><iframe src="https://giphy.com/embed/tFGBovr5CtfWt7MtqK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nuevofoundation-coding-stem-nuvi-tFGBovr5CtfWt7MtqK">via GIPHY</a></p>
-<div style="width:100%;height:0;padding-bottom:175%;position:relative;">
+
 # 🔥 Skills 🔥
 
 ### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
@@ -39,7 +37,7 @@
     <a style="padding:15px;" href="https://redis.com/" target="_blank"> <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" height=60 width=105 /> </a>
 </p>
 
-</div>
+
 
 <!-- Here are some ideas to get you started:
 

@@ -12,7 +12,4 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumanpaikdev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpaikdev&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
 

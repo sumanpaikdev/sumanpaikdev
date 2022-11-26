@@ -1,13 +1,29 @@
 <h1 align="center">Hi 👋, I'm Suman Paik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">A passionate front-end web developer from India. 𓃦</h4>
 
+### 🎯 𝙰𝚋𝚘𝚞𝚝
+- _Hello! my name is Suman Paik. I’m a Web developer._
+- _I am able to create front-end web app that just work fine across all platforms and browsers._ 
+- _I care deeply about building interfaces that are actually usable._ 
+- _My professional life has been 100 percent driven by my passion for web development._
+- _I’m 22 years old and I’m very excited to start my career as a Web developer._ 
+- _One last thing is I am interested in Blockchain technology as my future vision._ 
+- _In the year 2022, I have finished my Bachelor of Computer Application degree._
+- _My GitHub profile is my personal container for me where I add everything about my journey, projects, and other kinds of stuff._ 
+- _And now I am continuously learning new stuffs._
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sumanpaikdev) 
+### 🎯 𝚂𝚘𝚌𝚒𝚊𝚕
+[`Twitter`](https://twitter.com/sumanpaikdev)
+[`LinkedIn`](https://www.linkedin.com/in/suman-paik-21a2b5213/)
+[`YouTube`](https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)
+[`PortFolio`](https://sumanpaikdev.github.io/sumanpaik.dev/)
+<hr/>
 
-# 💻 Tech Stack:
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
+### 🎯 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+`HTML` `CSS` `Tailwind css` `JavaScript` `Java` `React JS` `Node JS` `Express JS` `Mongo DB` `Linux` `VsCode`
+
+<hr />
+
+### 🎯 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚞𝚜
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumanpaikdev&theme=dark&hide_border=true)<br/>
-

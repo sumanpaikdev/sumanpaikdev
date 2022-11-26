@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Suman Paik</h1>
-<h4 align="center">A passionate front-end web developer from India. 𓃦</h4>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&width=600&lines=Hi👋,+I+am+Suman+Paik.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&width=600&lines=A+passionate+frontend+web+developer+from+India.)](https://git.io/typing-svg)
+<!-- <h1 align="center">Hi 👋, I'm Suman Paik</h1> -->
+<!-- <h4 align="center">A passionate front-end web developer from India. 𓃦</h4> -->
 ## 🎯 𝙰𝚋𝚘𝚞𝚝
 - _Hello! my name is Suman Paik. I’m a Web developer._
 - _I am able to create front-end web app that just work fine across all platforms and browsers._ 

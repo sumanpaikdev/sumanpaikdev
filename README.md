@@ -27,3 +27,8 @@
 ### 🎯 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚞𝚜
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumanpaikdev&theme=dark&hide_border=true)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanpaikdev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="sumanpaikdev" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanpaikdev&show_icons=true&locale=en" alt="saf" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanpaikdev&theme=dark&hide_border=true"  alt="sumanpaikdev" /></p> -->

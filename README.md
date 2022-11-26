@@ -19,7 +19,7 @@
 [`PortFolio`](https://sumanpaikdev.github.io/sumanpaik.dev/)
 <hr/>
 
-### 🎯 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+### 🎯 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 `HTML` `CSS` `Tailwind css` `JavaScript` `Java` `React JS` `Node JS` `Express JS` `Mongo DB` `Linux` `VsCode`
 
 <hr />

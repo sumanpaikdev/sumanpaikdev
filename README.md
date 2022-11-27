@@ -23,11 +23,23 @@
 `HTML` `CSS` `Tailwind css` `JavaScript` `Java` `React JS` `Node JS` `Express JS` `Mongo DB` `Linux` `VsCode`
 ## 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚜 ˙ᵕ˙
 
-- **Front-end Projects**✅
-
+- 1️⃣ **Frontend Projects** ➞
   - The Future of Finance in DeFi 🔸 <a href="https://defi-project-website.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/NFTWebsite)
   - Collection of Super Rare NFTs 🔸 <a href="https://nfts-marketplace-collection.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/deFi%20Website)
-- **Other Projects**
+  
+- 2️⃣ **React JS Projects** `GitHub Repo` ➞ [Click Here](https://github.com/sumanpaikdev/React-Library-Code)
+  - Airbnb Clone Simple Version 🔸 <a href="https://airbnb-website-js.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/airbnb-clone)
+  - Travel Journal 🔸 <a href="https://travel-journal-react-js.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/travel-journal)
+  - Meme Generator🔸 [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/meme-generator-app)
+  - Business Card🔸 [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/project-business-card)
+  - Number Counter🔸 [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/number-counter)
+  
+- 3️⃣ **JavaScript Projects** `GitHub Repo` ➞ [Click Here](https://github.com/sumanpaikdev/JavaScript-code-structure)
+  - Black-Jack Game 🔸 <a href="https://blackjack-game-fn-ver.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/BlackJack%20Game%20v-1.0)
+  - Random Password Generator 🔸 <a href="https://my-random-pass-generator.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/Password%20Generator)
+  - Basket-Ball Score Board 🔸 <a href="https://basketball-scoreboard-count-app.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/Basketball%20Scoreboard)
+  - Emoji Fighter Simple Game 🔸 <a href="https://emoji-fighter-vs-game.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/Emoji%20fighter)
+  - Passanger Count app 🔸 <a href="https://number-count-js.netlify.app/" target=_blank>`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/passanger-counter-app)
  
 ## 📜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚞𝚜 ˙ᵕ˙
 

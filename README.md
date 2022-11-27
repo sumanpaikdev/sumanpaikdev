@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I+am+Suman+Paik.;A+frontend+web+developer+from+India.;&font=Fira%20Code&center=true&width=700&height=50&size=24&duration=2000&pause=500">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Hi👋🏻,+I+am+Suman+Paik.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&width=600&lines=A+passionate+frontend+web+developer+from+India.)](https://git.io/typing-svg)
-<!-- <h1 align="center">Hi 👋, I'm Suman Paik</h1> -->
-<!-- <h4 align="center">A passionate front-end web developer from India. 𓃦</h4> -->
+![Screenshot 2022-11-27 115545](https://user-images.githubusercontent.com/93247057/204122576-5cbee9e3-9754-45d5-9718-813a07e8e40e.png)
+
 ## 🤹 𝙰𝚋𝚘𝚞𝚝 ˙ᵕ˙
 - Hello! my name is [Suman Paik](https://sumanpaikdev.github.io/sumanpaik.dev/). I’m a Web developer.
 - I am able to create front-end web app that just work fine across all platforms and browsers.

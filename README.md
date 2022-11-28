@@ -21,7 +21,7 @@
 [`YouTube`](https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)
 [`PortFolio`](https://sumanpaikdev.github.io/sumanpaik.dev/)
 ## 👨🏼‍💻 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 ˙ᵕ˙
-`HTML` `CSS` `Tailwind css` `JavaScript` `Java` `React JS` `Node JS` `Express JS` `Mongo DB` `Linux` `VsCode`
+`HTML` `CSS` `Tailwind css` `JavaScript` `Java` `React JS` `Node JS` `Linux` `VsCode`
 ## 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚆𝚘𝚛𝚔𝚜 ˙ᵕ˙
 
 - 1️⃣ **Frontend Projects** ➞

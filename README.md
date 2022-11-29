@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I+am+Suman+Paik.;A+frontend+web+developer+from+India.;&font=Fira%20Code&center=true&width=700&height=50&size=24&duration=2000&pause=500">
 </p>
 
-![IMG_1669649216900](https://user-images.githubusercontent.com/93247057/204323485-c473ce84-34b1-4bc1-90eb-a9ba67899434.png)
+![Screenshot 2022-11-29 123248](https://user-images.githubusercontent.com/93247057/204461393-21d44535-9b77-4efa-b75b-3e4762c1c023.png)
 
 ## 🤹 𝙰𝚋𝚘𝚞𝚝 ˙ᵕ˙
 - Hello! my name is [`Suman Paik`](https://sumanpaikdev.github.io/sumanpaik.dev/). I’m a Web developer.

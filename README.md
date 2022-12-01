@@ -24,7 +24,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sumanpaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman-paik-21a2b5213/)](https://www.linkedin.com/in/suman-paik-21a2b5213/)
 [![Twitter](https://img.shields.io/badge/-sumanpaikdev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sumanpaikdev)](https://twitter.com/sumanpaikdev)
 [![YouTube](https://img.shields.io/badge/-sumanpaikdev-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)](https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)
-[![Gmail Badge](https://img.shields.io/badge/-sumanpaikdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanpaikdev@gmail.com)](mailto:sumanpaikdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sumanpaik.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanpaik.dev@gmail.com)](mailto:sumanpaik.dev@gmail.com)
 
 
 ## 👨🏼‍💻 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 ˙ᵕ˙

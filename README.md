@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I+am+Suman+Paik.;A+frontend+web+developer+from+India.;&font=Fira%20Code&center=true&width=700&height=50&size=24&duration=2000&pause=500">
 </p>
-![Screenshot 2022-11-29 123248](https://user-images.githubusercontent.com/93247057/204461393-21d44535-9b77-4efa-b75b-3e4762c1c023.png)
+
 
 ## 🤹 𝙰𝚋𝚘𝚞𝚝 ˙ᵕ˙
 - Hello! my name is [`Suman Paik`](https://linktr.ee/sumanpaik). I’m a Web developer.

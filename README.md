@@ -11,11 +11,13 @@
   
 ## 🖥️ Projects
 
-- The Future of Finance in DeFi &rarr; <a href="https://defi-project-website.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/NFTWebsite) 🔸Using: `html, css, javascript`
-- Collection of Super Rare NFTs &rarr; <a href="https://nfts-marketplace-collection.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/deFi%20Website) 🔸Using: `html, css, javascript`
-- HTML Form (Developer Tool) &rarr; <a href="https://form-using-react-js.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/React-Library-Code/tree/master/REACT_RECAP/submit-form-in-react) 🔸Using: `React JS, html, css`
-- Sign in Form (Developer Tool) &rarr; <a href="https://sign-in-form-react.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/React-Library-Code/tree/master/REACT_RECAP/sign-up-form) 🔸Using: `React JS, html, css`
-- Meme Generator &rarr; <a href="https://meme-generator-reactjs-responsive.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/React-Library-Code/tree/master/REACT_RECAP/responsive-meme-generator) 🔸Using: `React JS, imgflip API, html, css`
+- Samsung Online shoping Store Clone &rarr; <a href="https://samsung-online-store-clone-react.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/Samsung-Online-Store-Clone)🔸Using: `React JS, html, css`  
+- The Future of Finance in DeFi &rarr; <a href="https://defi-project-website.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/NFTWebsite)🔸Using: `html, css, javascript`
+- Collection of Super Rare NFTs &rarr; <a href="https://nfts-marketplace-collection.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/deFi%20Website)🔸Using: `html, css, javascript`
+- HTML Form (Developer Tool) &rarr; <a href="https://form-using-react-js.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/React-Library-Code/tree/master/REACT_RECAP/submit-form-in-react)🔸Using: `React JS, html, css`
+- Sign in Form (Developer Tool) &rarr; <a href="https://sign-in-form-react.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/React-Library-Code/tree/master/REACT_RECAP/sign-up-form)🔸Using: `React JS, html, css`
+- Meme Generator &rarr; <a href="https://meme-generator-reactjs-responsive.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/React-Library-Code/tree/master/REACT_RECAP/responsive-meme-generator)🔸Using: `React JS, imgflip API, html, css`
+  
   
   
   

@@ -11,6 +11,7 @@
   
 ## 🖥️ Projects
 
+- Built a new Theme in LinkFree-1 Public Repo &rarr; <a href="https://user-all-links.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/LinkFree-1/tree/master/Templates/Standard%20Classic%20Theme)🔸Using: `html, css, javascript`
 - Samsung Online shoping Store Clone &rarr; <a href="https://samsung-online-store-clone-react.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/Samsung-Online-Store-Clone)🔸Using: `React JS, html, css`  
 - The Future of Finance in DeFi &rarr; <a href="https://defi-project-website.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/NFTWebsite)🔸Using: `html, css, javascript`
 - Collection of Super Rare NFTs &rarr; <a href="https://nfts-marketplace-collection.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/deFi%20Website)🔸Using: `html, css, javascript`

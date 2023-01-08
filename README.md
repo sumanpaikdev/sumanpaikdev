@@ -32,6 +32,7 @@
 - Java  
 - React JS
 - Node.js
+- JSON
   
 ## 📌 Contact
 

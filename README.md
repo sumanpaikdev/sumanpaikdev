@@ -1,3 +1,4 @@
+![IMG_1673800268599](https://user-images.githubusercontent.com/93247057/212553512-f430e74f-70dd-421b-bd3f-b2330e946173.png)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I+am+Suman+Paik.;A+frontend+web+developer+from+India.;&font=Fira%20Code&center=true&width=700&height=50&size=24&duration=2000&pause=500">
 </p>

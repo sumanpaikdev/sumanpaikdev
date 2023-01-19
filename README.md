@@ -29,6 +29,7 @@
 
 - HTML
 - CSS
+- TailWind Css 
 - JavaScript
 - Java  
 - React JS

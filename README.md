@@ -11,7 +11,8 @@
 - I’m 22 years old and excited to start my career as a Web developer. In the year 2022, I have finished my Bachelor of Computer Application degree. And now I am continuously learning new stuff.
   
 ## 🖥️ Projects
-
+  
+- Plant Shopping Store &rarr; <a href="https://shop-plant.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/Plant-Store-Online)🔸Using: `React Js, Tailwind`
 - Built a new Theme in LinkFree-1 Public Repo &rarr; <a href="https://user-all-links.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/LinkFree-1/tree/master/Templates/Standard%20Classic%20Theme)🔸Using: `html, css, javascript`
 - Samsung Online shoping Store Clone &rarr; <a href="https://samsung-online-store-clone-react.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/Samsung-Online-Store-Clone)🔸Using: `React JS, html, css`  
 - The Future of Finance in DeFi &rarr; <a href="https://defi-project-website.netlify.app/" target="_blank">`Live Preview`<a /> [GitHub Repo](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/NFTWebsite)🔸Using: `html, css, javascript`
@@ -60,28 +61,7 @@
 
 
 
-
-<!-- - 1️⃣ **Frontend Projects** ➞
-  - The Future of Finance in DeFi 🔸 <a href="https://defi-project-website.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/NFTWebsite)
-  - Collection of Super Rare NFTs 🔸 <a href="https://nfts-marketplace-collection.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/css-all-web-Components/tree/master/deFi%20Website)
-  
-- 2️⃣ **React JS Projects** `GitHub Repo` ➞ [Click Here](https://github.com/sumanpaikdev/React-Library-Code)
-  - Airbnb Clone Simple Version 🔸 <a href="https://airbnb-website-js.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/airbnb-clone)
-  - Travel Journal 🔸 <a href="https://travel-journal-react-js.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/travel-journal)
-  - Meme Generator🔸 [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/meme-generator-app)
-  - Business Card🔸 [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/project-business-card)
-  - Number Counter🔸 [`GitHub Repo`](https://github.com/sumanpaikdev/React-Library-Code/tree/master/number-counter)
-  
-- 3️⃣ **JavaScript Projects** `GitHub Repo` ➞ [Click Here](https://github.com/sumanpaikdev/JavaScript-code-structure)
-  - Black-Jack Game 🔸 <a href="https://blackjack-game-fn-ver.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/BlackJack%20Game%20v-1.0)
-  - Random Password Generator 🔸 <a href="https://my-random-pass-generator.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/Password%20Generator)
-  - Basket-Ball Score Board 🔸 <a href="https://basketball-scoreboard-count-app.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/Basketball%20Scoreboard)
-  - Emoji Fighter Simple Game 🔸 <a href="https://emoji-fighter-vs-game.netlify.app/" target="_blank">`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/Emoji%20fighter)
-  - Passanger Count app 🔸 <a href="https://number-count-js.netlify.app/" target=_blank>`Live Preview`<a /> [`GitHub Repo`](https://github.com/sumanpaikdev/JavaScript-code-structure/tree/master/passanger-counter-app) -->
- 
-
 <p align="center">
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumanpaikdev&show_icons=true&theme=tokyonight" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanpaikdev&theme=tokyonight" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpaikdev&layout=compact&theme=tokyonight" />
 </p>
@@ -91,11 +71,14 @@
   Github: https://github.com/sumanpaikdev/Plant-Store-Online
 <table align="center"><tr><td valign="top" width="50%">
 
-https://user-images.githubusercontent.com/93247057/214228835-0a884cad-89eb-47d0-b17b-9ef841aff4f9.mp4
+
+https://user-images.githubusercontent.com/93247057/214243641-3c696d21-c5b2-4730-9dae-49e7774d8c94.mp4
+
 
 </td><td valign="top" width="50%">
 
-https://user-images.githubusercontent.com/93247057/214228853-5b140756-c1aa-489d-b28c-4a4414df215f.mp4
+https://user-images.githubusercontent.com/93247057/214243664-13610749-102d-45dc-ae79-beafc7bd84d4.mp4
+
 
 </td></tr></table>
 

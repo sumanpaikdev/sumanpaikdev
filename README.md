@@ -86,7 +86,9 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpaikdev&layout=compact&theme=tokyonight" />
 </p>
   
-## Recent Project - React - Tailwind - Unsplash API
+## Recent Project - React - Tailwind - Unsplash API 
+  Deploy Link: https://shop-plant.netlify.app/
+  Github: https://github.com/sumanpaikdev/Plant-Store-Online
 <table align="center"><tr><td valign="top" width="50%">
 
 https://user-images.githubusercontent.com/93247057/214228835-0a884cad-89eb-47d0-b17b-9ef841aff4f9.mp4

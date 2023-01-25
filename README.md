@@ -7,7 +7,7 @@
 
 ## 👋 Hi, I Am Suman Paik
 
-- Hello! my name is [`Suman Paik`](https://linktr.ee/sumanpaik). I’m a Web developer. I am able to create front-end web apps that work fine across all platforms. I care deeply about building interfaces that are actually usable.
+- Hello! my name is [`Suman Paik`](https://sumanpaik.netlify.app/). I’m a Web developer. I am able to create front-end web apps that work fine across all platforms. I care deeply about building interfaces that are actually usable.
 - I’m 22 years old and excited to start my career as a Web developer. In the year 2022, I have finished my Bachelor of Computer Application degree. And now I am continuously learning new stuff.
   
 ## 🖥️ Projects

@@ -7,8 +7,15 @@
 
 ## 👋 Hi, I Am Suman Paik
 
-- Hello! my name is [`Suman Paik`](https://sumanpaik.netlify.app/). I’m a Web developer. I am able to create front-end web apps that work fine across all platforms. I care deeply about building interfaces that are actually usable.
-- I’m 22 years old and excited to start my career as a Web developer. In the year 2022, I have finished my Bachelor of Computer Application degree. And now I am continuously learning new stuff.
+- I am [`Suman Paik`](https://sumanpaik.netlify.app/). I am a self-taught web developer
+from India. I have an experience of close to more
+than one year in doing web development through
+creating projects and designing stuff and sharing
+web dev-related stuff on twitter and github for
+learning purposes. I have a youtube channel also
+named, @sumanpaikdev where I share my
+project-related stuff.
+
   
 ## 🖥️ Projects
   

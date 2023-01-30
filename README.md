@@ -46,6 +46,7 @@ project-related stuff.
 
 - HTML
 - CSS
+- SCSS
 - TailWind Css 
 - JavaScript
 - Java  

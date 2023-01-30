@@ -1,8 +1,17 @@
-![IMG_1673800268599](https://user-images.githubusercontent.com/93247057/212553512-f430e74f-70dd-421b-bd3f-b2330e946173.png)
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+I+am+Suman+Paik.;A+frontend+web+developer+from+India.;&font=Fira%20Code&center=true&width=700&height=50&size=24&duration=2000&pause=500">
-</p>
+<!-- ![IMG_1673800268599](https://user-images.githubusercontent.com/93247057/212553512-f430e74f-70dd-421b-bd3f-b2330e946173.png) -->
 
+<div align=center>
+<a href="https://twitter.com/sumanpaikdev"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384065.png" title="Twitter" alt="Twitter Account" width="45"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/suman-paik-21a2b5213/"><img src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png" title="Linkedin" alt="Linkedin Account" width="43"/></a> 
+&ensp;<a href="https://sumanpaik.hashnode.dev/"><img src="https://daily-dev-tips.com/ezoimgfmt/cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png?ezimgfmt=rs:674x674/rscb2/ng:webp/ngcb2" title="Hashnode" alt="Hashnode blog" width="45"/></a>
+&ensp;<a href="mailto:sumanpaik.dev@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Hashnode" alt="Hashnode blog" width="45"/></a>
+ &ensp;<a href="https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" title="YouTube" alt="YouTube Account" width="48"/></a>
+</div>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=1000&color=5669FF&center=true&vCenter=true&width=435&lines=Hi🙋🏻‍♂️,+I+am+Suman+Paik.;A+frontend+web+developer+from+India." alt="Typing SVG" /></a>
+ </p>
+ 
 <table align="center"><tr><td valign="top" width="75%">
 
 ## 👋 Hi, I Am Suman Paik
@@ -44,28 +53,14 @@ project-related stuff.
 - Node.js
 - JSON
   
-## 📌 Contact
+<!-- ## 📌 Contact
 
 - [![Linkedin Badge](https://img.shields.io/badge/-sumanpaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman-paik-21a2b5213/)](https://www.linkedin.com/in/suman-paik-21a2b5213/)
 - [![Twitter](https://img.shields.io/badge/-sumanpaikdev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sumanpaikdev)](https://twitter.com/sumanpaikdev)
 - [![YouTube](https://img.shields.io/badge/-sumanpaikdev-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)](https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)
 - [![Gmail Badge](https://img.shields.io/badge/-sumanpaik.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanpaik.dev@gmail.com)](mailto:sumanpaik.dev@gmail.com)
-
+ -->
 </tr></tr></table> 
-
-
-
-<!-- ## 📌🦖𝚂𝚘𝚌𝚒𝚊𝚕 ˙ᵕ˙ -->
-<!-- [`Twitter`](https://twitter.com/sumanpaikdev)
-[`LinkedIn`](https://www.linkedin.com/in/suman-paik-21a2b5213/)
-[`YouTube`](https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)
-[`PortFolio`](https://sumanpaikdev.github.io/sumanpaik.dev/) -->
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-sumanpaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman-paik-21a2b5213/)](https://www.linkedin.com/in/suman-paik-21a2b5213/)
-[![Twitter](https://img.shields.io/badge/-sumanpaikdev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sumanpaikdev)](https://twitter.com/sumanpaikdev)
-[![YouTube](https://img.shields.io/badge/-sumanpaikdev-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)](https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw)
-[![Gmail Badge](https://img.shields.io/badge/-sumanpaik.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanpaik.dev@gmail.com)](mailto:sumanpaik.dev@gmail.com) -->
-
 
 
 <p align="center">

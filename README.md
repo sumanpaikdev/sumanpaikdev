@@ -49,6 +49,7 @@ project-related stuff.
 - SCSS
 - TailWind Css 
 - JavaScript
+- TypeScript 
 - Java  
 - React JS
 - Node.js

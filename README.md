@@ -5,7 +5,7 @@
 &ensp;<a href="https://www.linkedin.com/in/suman-paik-21a2b5213/"><img src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png" title="Linkedin" alt="Linkedin Account" width="43"/></a> 
 &ensp;<a href="https://sumanpaik.hashnode.dev/"><img src="https://daily-dev-tips.com/ezoimgfmt/cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png?ezimgfmt=rs:674x674/rscb2/ng:webp/ngcb2" title="Hashnode" alt="Hashnode blog" width="45"/></a>
 &ensp;<a href="mailto:sumanpaik.dev@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Hashnode" alt="Hashnode blog" width="45"/></a>
- &ensp;<a href="https://www.youtube.com/channel/UCR_xSSXs7j5luzlMWfgdvUw"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" title="YouTube" alt="YouTube Account" width="48"/></a>
+ &ensp;<a href="https://youtube.com/@YourMillionCoder"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" title="YouTube" alt="YouTube Account" width="48"/></a>
 </div>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ## 👋 Hi, I Am Suman Paik
 
-- I am [`Suman Paik`](https://sumanpaik.netlify.app/). I am a self-taught web developer
+- I am [Suman Paik](https://sumanpaik.netlify.app/). I am a self-taught web developer
 from India. I have an experience of close to more
 than one year in doing web development through
 creating projects and designing stuff and sharing
 web dev-related stuff on twitter and github for
-learning purposes. I have a youtube channel also
-named, @sumanpaikdev where I share my
-project-related stuff.
+learning purposes. I have a youtube channel
+named, [Your Million Coder](https://youtube.com/@YourMillionCoder) where I share my
+project-related stuffs.
 
   
 ## 🖥️ Projects
@@ -65,23 +65,23 @@ project-related stuff.
 </tr></tr></table> 
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanpaikdev&theme=tokyonight" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpaikdev&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
   
-## Recent Project - React - Tailwind - Unsplash API 
+<!-- ## Recent Project - React - Tailwind - Unsplash API 
   Deploy Link: https://shop-plant.netlify.app/
   Github: https://github.com/sumanpaikdev/Plant-Store-Online
 <table align="center"><tr><td valign="top" width="50%">
-
-
+ -->
+<!-- 
 https://user-images.githubusercontent.com/93247057/214243641-3c696d21-c5b2-4730-9dae-49e7774d8c94.mp4
 
 
 </td><td valign="top" width="50%">
 
-https://user-images.githubusercontent.com/93247057/214243664-13610749-102d-45dc-ae79-beafc7bd84d4.mp4
+https://user-images.githubusercontent.com/93247057/214243664-13610749-102d-45dc-ae79-beafc7bd84d4.mp4 -->
 
 
 </td></tr></table>

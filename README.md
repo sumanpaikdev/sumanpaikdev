@@ -7,7 +7,7 @@
 &ensp;<a href="https://sumanpaik.hashnode.dev/"><img src="https://daily-dev-tips.com/ezoimgfmt/cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png?ezimgfmt=rs:674x674/rscb2/ng:webp/ngcb2" title="Hashnode" alt="Hashnode blog" width="45"/></a> -->
 
 &ensp;<a href="mailto:reachout.suman@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Hashnode" alt="Hashnode blog" width="45"/></a>
- &ensp;<a href="https://youtube.com/@YourMillionCoder"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" title="YouTube" alt="YouTube Account" width="48"/></a>
+<!-- &ensp;<a href="https://youtube.com/@YourMillionCoder"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" title="YouTube" alt="YouTube Account" width="48"/></a> -->
 </div>
 
 <p align="center">

@@ -18,9 +18,9 @@
 
 ## 👋 Hi, I Am Suman Paik
 
-- I am [Suman Paik](https://sumanpaik.netlify.app/). I am a self-taught web developer
+- I am [Suman Paik](https://sumanpaik.netlify.app/). I am a web developer
 from India. I have an experience of close to more
-than one year in doing web development through
+than two year in doing web development through
 creating projects and designing stuff and sharing
 web dev-related stuff on twitter and github for
 learning purposes. I have a youtube channel

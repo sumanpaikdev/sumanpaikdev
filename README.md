@@ -2,16 +2,15 @@
 
 <div align=center>
  
-<!-- <a href="https://twitter.com/sumanpaikdev"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384065.png" title="Twitter" alt="Twitter Account" width="45"/></a> 
-&ensp;<a href="https://www.linkedin.com/in/suman-paik-21a2b5213/"><img src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png" title="Linkedin" alt="Linkedin Account" width="43"/></a> 
-&ensp;<a href="https://sumanpaik.hashnode.dev/"><img src="https://daily-dev-tips.com/ezoimgfmt/cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png?ezimgfmt=rs:674x674/rscb2/ng:webp/ngcb2" title="Hashnode" alt="Hashnode blog" width="45"/></a> -->
-
-&ensp;<a href="mailto:reachout.suman@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Hashnode" alt="Hashnode blog" width="45"/></a>
-<!-- &ensp;<a href="https://youtube.com/@YourMillionCoder"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" title="YouTube" alt="YouTube Account" width="48"/></a> -->
+ <a href="mailto:reachout.suman@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Say Hi to Suman..." alt="reachout.suman@gmail.com" width="45"/></a>
+&ensp; <a href="https://x.com/sumanpaik_"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" title="Twitter" alt="Twitter Account" width="45"/></a> 
+&ensp; <a href="https://www.instagram.com/_sumanpaik/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" title="Instagram" alt="Instagram Account" width="40"/></a> 
+&ensp; <a href="https://linktr.ee/suman.paik"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" title="Linktree" alt="Linktree Urls" width="40"/></a> 
+&ensp; <a href="https://www.scriptrevolution.com/profiles/suman-paik"><img src="https://www.scriptrevolution.com/sites/default/files/Script-Revolution-logo.png" title="Scriptrevoulition" alt="screenplay" width="148"/></a> 
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=1000&color=5669FF&center=true&vCenter=true&width=435&lines=Hi🙋🏻‍♂️,+I+am+Suman+Paik.;A+frontend+web+developer+from+India." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=1000&color=e60076&center=true&vCenter=true&width=435&lines=Hi✋,+I+am+Suman+Paik.;A+frontend+web+developer+from+India." alt="Typing SVG" /></a>
  </p>
  
 <table align="center"><tr><td valign="top" width="75%">
@@ -86,10 +85,7 @@ https://user-images.githubusercontent.com/93247057/214243664-13610749-102d-45dc-
 # Plant-Shopping - Recent Work
 - This is my plant shoping website. It's a public repo, you can contribute to this project.
 - Deploy Link: https://shop-plant.netlify.app/
-- 🦖Tech Used: 
-  - React Js
-  - Tailwind
-  - Unsplash API
+- Tech Used: `React Js | Tailwind | Unsplash API`
 
 <table align="center"><tr><td valign="top" width="60%">
 

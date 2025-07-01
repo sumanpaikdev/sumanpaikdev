@@ -49,10 +49,12 @@ from India. I have an experience of close to more than two year in doing web dev
 - JavaScript
 - TypeScript 
 - Java  
+- C
+- C++
+- python
 - React JS
 - Node.js
 - JSON
-  
 <!-- ## 📌 Contact
 
 - [![Linkedin Badge](https://img.shields.io/badge/-sumanpaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman-paik-21a2b5213/)](https://www.linkedin.com/in/suman-paik-21a2b5213/)

@@ -2,10 +2,9 @@
 
 <div align=center>
  
- <a href="mailto:reachout.suman@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Say Hi to Suman..." alt="reachout.suman@gmail.com" width="45"/></a>
+ <a href="mailto:spaik.writes@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Say Hi to Suman..." alt="reachout.suman@gmail.com" width="45"/></a>
 &ensp; <a href="https://x.com/sumanpaik_"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" title="Twitter" alt="Twitter Account" width="45"/></a> 
 &ensp; <a href="https://www.instagram.com/_sumanpaik/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" title="Instagram" alt="Instagram Account" width="40"/></a> 
-&ensp; <a href="https://linktr.ee/suman.paik"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" title="Linktree" alt="Linktree Urls" width="40"/></a> 
 &ensp; <a href="https://www.scriptrevolution.com/profiles/suman-paik"><img src="https://www.scriptrevolution.com/sites/default/files/Script-Revolution-logo.png" title="Scriptrevoulition" alt="screenplay" width="148"/></a> 
 </div>
 

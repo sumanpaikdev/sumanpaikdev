@@ -17,7 +17,7 @@
 ## 👋 Hi, I Am Suman Paik
 
 - I am [Suman Paik](https://sumanpaik.vercel.app/). I am a web developer
-from India. I have an experience of close to more than two year in doing web development through creating projects and designing stuff and sharing web dev-related stuff on twitter and github for learning purposes. Beyond code and design, my passion lies in storytelling—writing Films & Web Series, that speak to the soul and capture the beauty of human connection. I’m fascinated by psychology and the mysteries of the human mind, drawing inspiration from what drives us.
+from India. I have an experience of close to more than two year in doing web development through creating projects and designing stuff. I’m fascinated by psychology and the mysteries of the human mind, drawing inspiration from what drives us.
 
   
 ## 🖥️ Projects

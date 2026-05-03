@@ -1,12 +1,12 @@
 <!-- ![IMG_1673800268599](https://user-images.githubusercontent.com/93247057/212553512-f430e74f-70dd-421b-bd3f-b2330e946173.png) -->
 
-<div align=center>
+<!--<div align=center>
  
- <a href="mailto:spaik.writes@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Say Hi to Suman..." alt="reachout.suman@gmail.com" width="45"/></a>
-&ensp; <a href="https://x.com/sumanpaik_"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" title="Twitter" alt="Twitter Account" width="45"/></a> 
-&ensp; <a href="https://www.instagram.com/_sumanpaik/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" title="Instagram" alt="Instagram Account" width="40"/></a> 
-&ensp; <a href="https://www.scriptrevolution.com/profiles/suman-paik"><img src="https://www.scriptrevolution.com/sites/default/files/Script-Revolution-logo.png" title="Scriptrevoulition" alt="screenplay" width="148"/></a> 
-</div>
+ <a href="mailto:@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Say Hi to Suman..." alt="@gmail.com" width="45"/></a>
+&ensp; <a href="https://x.com/sum"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" title="Twitter" alt="Twitter Account" width="45"/></a> 
+&ensp; <a href="https://www.instagram.com/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" title="Instagram" alt="Instagram Account" width="40"/></a> 
+&ensp; 
+</div> -->
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=1000&color=f0b100&center=true&vCenter=true&width=435&lines=Hi✋,+I+am+Suman+Paik.;A+frontend+web+developer+from+India." alt="Typing SVG" /></a>

@@ -16,8 +16,7 @@
 
 ## 👋 Hi, I Am Suman Paik
 
-- I am Suman Paik. I am a web developer
-from India. I have an experience of close to more than two year in doing web development through creating projects and designing stuff. I’m fascinated by psychology and the mysteries of the human mind, drawing inspiration from what drives us.
+- I am Suman Paik. I am a web developer from India.
 
   
 ## 🖥️ Projects
